@@ -31,6 +31,14 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 20. When complete - all of your tests should pass. 
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
 
+# How To Run
+Instalation:
+
+- Clone the repository using git.
+- Or download the Zip file from the right corner and then extract the file.
+- Now open the index.html in your browser.
+
+
 # Tests 
 ##### RSS Feeds
 
